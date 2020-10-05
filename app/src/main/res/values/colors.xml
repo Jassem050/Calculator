@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F2E30</color>
+    <color name="colorPrimaryDark">#2F2E30</color>
+    <color name="colorAccent">#648582</color>
+
+    <color name="colorBtnNumber">#1C1A1A</color>
+    <color name="black_1">#0C0C0C</color>
+    <color name="light_dark_1">#555252</color>
+    <color name="light_dark_2">#434242</color>
+    <color name="light_dark">#353333</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_white">#EAE0E0</color>
+    <color name="light_red">#D53232</color>
+</resources>
